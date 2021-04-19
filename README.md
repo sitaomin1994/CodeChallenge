@@ -20,7 +20,11 @@ make
 cd ./bin/
 ./CodeChallenge_longestStrand
 ```
-
+Or directly run executable file
+```shell
+cd ./bin/
+./CodeChallenge_longestStrand
+```
 ## Result
 
 Maximum common strands is between sample.2 and sample.3:
