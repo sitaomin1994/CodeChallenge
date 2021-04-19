@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -O3 -DNDEBUG   CMakeFiles/CodeChallenge_longestStrand.dir/src/longest_strand.cpp.o  -o bin/CodeChallenge_longestStrand 

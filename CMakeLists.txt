@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(CodeChallenge_longestStrand)
+SET(CMAKE_CXX_FLAGS ${CMAKE_CXX_FLAGS} "-std=c++17")
+set(EXECUTABLE_OUTPUT_PATH "./bin")
+add_executable(CodeChallenge_longestStrand src/longest_strand.cpp src/longest_strand.h)

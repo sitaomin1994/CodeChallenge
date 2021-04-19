@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CodeChallenge_longestStrand"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/m/C++ Projects/CodeChallenge_longestStrand"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/m/C++ Projects/CodeChallenge_longestStrand"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/m/C++ Projects/CodeChallenge_longestStrand"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CodeChallenge_longestStrand">
+				<Option output="/mnt/m/C++ Projects/CodeChallenge_longestStrand/bin/CodeChallenge_longestStrand" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="./bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 CodeChallenge_longestStrand"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CodeChallenge_longestStrand/fast">
+				<Option output="/mnt/m/C++ Projects/CodeChallenge_longestStrand/bin/CodeChallenge_longestStrand" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="./bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 CodeChallenge_longestStrand/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/m/C++\ Projects/CodeChallenge_longestStrand/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/m/C++ Projects/CodeChallenge_longestStrand/src/longest_strand.cpp">
+			<Option target="CodeChallenge_longestStrand"/>
+		</Unit>
+		<Unit filename="/mnt/m/C++ Projects/CodeChallenge_longestStrand/src/longest_strand.h">
+			<Option target="CodeChallenge_longestStrand"/>
+		</Unit>
+		<Unit filename="/mnt/m/C++ Projects/CodeChallenge_longestStrand/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
