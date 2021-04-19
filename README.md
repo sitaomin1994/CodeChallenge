@@ -27,3 +27,5 @@ Maximum common strands is between sample.2 and sample.3:
 - length of common strands:27648
 - offset of sample.2 : 3072
 - offset of sample.3 : 17408
+
+Execution time 48s in intel core i7
